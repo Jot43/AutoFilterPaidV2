@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TeamHMT/Auto-search-tamil-bot",
-    "repository": "https://github.com/TeamHMT/Auto-search-tamil-bot",
+    "website": "https://github.com/Jot43/AutoFilterPaidV2",
+    "repository": "https://github.com/Jot43/AutoFilterPaidV2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
